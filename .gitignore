@@ -25,7 +25,8 @@
 *.la
 *.a
 *.lib
-
+# VS Files
+.vs/
 # Executables
 *.exe
 *.out
