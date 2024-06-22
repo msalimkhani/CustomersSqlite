@@ -2,14 +2,14 @@
 #ifndef MAIN_H
 #define MAIN_H
 #include "includes.h"
-using namespace Service;
+using namespace Repositories;
 namespace Customers
 {
 	class Main
 	{
 	public:
 		Main();
-		static void printList(list<Customer> g);
+		static void printList(list<Customer*> *g);
 		~Main();
 
 	private:

@@ -18,22 +18,22 @@
     <ClInclude Include="Main.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Repository.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Customer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="includes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="SqLiteHelper.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="sqlite3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="sqlite3ext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomerRepository.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SqliteConnection.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -44,16 +44,16 @@
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Repository.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="SqLiteHelper.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="shell.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="sqlite3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomerRepository.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SqliteConnection.cxx">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

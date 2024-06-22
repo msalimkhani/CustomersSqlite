@@ -1,6 +1,6 @@
 C:\Users\mahdi\source\repos\Customers\Customer.cpp;C:\Users\mahdi\source\repos\Customers\Customers\x64\Debug\Customer.obj
+C:\Users\mahdi\source\repos\Customers\CustomerRepository.cpp;C:\Users\mahdi\source\repos\Customers\Customers\x64\Debug\CustomerRepository.obj
 C:\Users\mahdi\source\repos\Customers\Main.cpp;C:\Users\mahdi\source\repos\Customers\Customers\x64\Debug\Main.obj
-C:\Users\mahdi\source\repos\Customers\Repository.cpp;C:\Users\mahdi\source\repos\Customers\Customers\x64\Debug\Repository.obj
 C:\Users\mahdi\source\repos\Customers\shell.c;C:\Users\mahdi\source\repos\Customers\Customers\x64\Debug\shell.obj
 C:\Users\mahdi\source\repos\Customers\sqlite3.c;C:\Users\mahdi\source\repos\Customers\Customers\x64\Debug\sqlite3.obj
-C:\Users\mahdi\source\repos\Customers\SqLiteHelper.cpp;C:\Users\mahdi\source\repos\Customers\Customers\x64\Debug\SqLiteHelper.obj
+C:\Users\mahdi\source\repos\Customers\SqliteConnection.cxx;C:\Users\mahdi\source\repos\Customers\Customers\x64\Debug\SqliteConnection.obj
